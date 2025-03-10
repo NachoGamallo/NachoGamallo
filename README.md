@@ -13,15 +13,23 @@ I am a first year student of DAM (Cross Platform Application Development). I am 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, 📖 I love to read manga, 🎮 Play Video Games and 🎵 listen to music.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">nachogamallolafon123@gmail.com</a>
+- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">nachogamallolafon123@gmail.com</a><br><br>
 
-### 💻 Profile Stats
+💻 **Profile Stats**
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<img alt="Nacho Gamallo Github Stats" 
-  src="https://github-readme-stats.vercel.app/api/?username=NachoGamallo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-  height="192px"/>
-<img alt="Nacho Gamallo Top Languages" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoGamallo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-  height="192px"/>
+<table border="0" align="center">
+<td width="50%" align="center">
+  <img  align="center"  
+    src="https://github-readme-stats.vercel.app/api?username=NachoGamallo&theme=cobalt&show_icons=true&count_private=true"/>
+  <br></br></td>
+  
+<td width="50%" align="center">
+  <img  align="center"  
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NachoGamallo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/></td>
+</tr></table><br>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
