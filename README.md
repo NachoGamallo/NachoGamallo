@@ -5,7 +5,7 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> **About me**
 I am a first year student of DAM (Cross Platform Application Development). I am good at Java, HTML/CSS and Shell. I love learning and creating something new, productive, innovative and creative.
-**I am interested in Web designing, Android development, and digital marketing**
+**I am interested in Web designing, Android development, and Video Games development.**
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, 📖 I love to read manga, 🎮 Play Video Games and 🎵 listen to music.
