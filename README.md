@@ -9,7 +9,8 @@ I am a first year student of DAM (Cross Platform Application Development). I am 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, 📖 I love to read manga, 🎮 Play Video Games and 🎵 listen to music.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">nachogamallolafon123@gmail.com</a><br><br>
+- 📫 Reach out to me at: <a href="nachogamallolafon123@gmail.com">nachogamallolafon123@gmail.com</a><br><br>
+- 📫 Here is my Student mail to: <a href="igngamlaf@alu.edu.gva.es">igngamlaf@alu.edu.gva.es</a><br><br>
 
 🤓 **What I'm learning**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
