@@ -38,7 +38,7 @@ I am a first year student of DAM (Cross Platform Application Development). I am 
 <table border="0" align="center">
 <td width="50%" align="center">
   <img  align="center"  
-    src="https://github-readme-stats.vercel.app/api?username=NachoGamallo&theme=cobalt&show_icons=true&count_private=true"/>
+    src="https://github-readme-stats.vercel.app/api?username=NachoGamallo&theme=cobalt&show_icons=true&count_private=false"/>
   <br></br></td>
   
 <td width="50%" align="center">
