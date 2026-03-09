@@ -11,7 +11,7 @@ I am a second-year **Cross-Platform Application Development (DAM)** student at I
 * 💼 **Work Experience:** Currently working as an **Administrative Assistant** at Dual Link, where I perform PostgreSQL queries and automate tasks using Python scripts.
 * 🌱 **Learning:** Deepening my knowledge in Java and exploring advanced software architectures.
 * 💬 **Interests:** Backend Systems, Database Management, and Automation.
-* [cite_start]📫 **Contact:** [nachogamallolafon123@gmail.com](mailto:nachogamallolafon123@gmail.com)
+* 📫 **Contact:** [nachogamallolafon123@gmail.com](mailto:nachogamallolafon123@gmail.com)
 
 ---
 
@@ -31,18 +31,19 @@ I am a second-year **Cross-Platform Application Development (DAM)** student at I
 ### 📂 Featured Projects
 
 #### 🚀 [Capstone Project (TFG) - Functional App](https://github.com/NachoGamallo/TFGPROYECT_AURA)
-A complete application developed as my final degree project. This repository serves as a portfolio of my technical abilities, demonstrating clean code practices and modular architecture.
-* **Focus:** Scalability, Business Logic, and UI/UX Integration.
+My Final Degree Project. A functional application designed to streamline organizational workflows.
+* **Technical Highlights:** Modular architecture, clean code principles, and advanced data persistence.
+* **Objective:** Showcasing a production-ready mindset and the ability to solve real-world problems through software.
 
 #### 📊 [ERP Management System](https://github.com/NachoGamallo/fichajes-erp).
-An ERP application designed for employee management, time tracking, and task organization.
-* **Stack:** Java, PostgreSQL, and OOP principles.
-* **Key Achievement:** Implemented complex business logic and a modular data structure.
+A robust ERP system focused on employee time-tracking and task organization.
+* **Stack:** Java (Web Spring/Spring Boot), PostgreSQL, and Object-Oriented Programming (OOP).
+* **Key Features:** Relational database integration, secure logic for employee records, and modular task management modules.
 
 ---
 
 ### 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NachoGamallo&theme=cobalt&show_icons=true&count_private=false" alt="Ignacio's Stats" />
+ 
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NachoGamallo&theme=cobalt&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
