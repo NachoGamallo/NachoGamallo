@@ -1,48 +1,47 @@
-# [cite_start]Hi there 👋, I'm Ignacio Gamallo [cite: 1]
+# Hi there 👋, I'm Ignacio Gamallo
 
-[cite_start]**Backend Developer & DAM Student** [cite: 2, 11]
-[cite_start]Actualmente enfocado en el desarrollo de software robusto, gestión de bases de datos y automatización de procesos. [cite: 30, 31]
+**Backend Developer & Software Development Student** Passionate about building robust backend systems, database optimization, and process automation.
 
 ---
 
-### 👤 Sobre mí
-[cite_start]Soy estudiante de segundo año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES Mutxamel.  [cite_start]Mi enfoque principal es el **Backend**, donde diseño lógica de negocio eficiente y optimizo sistemas de datos. [cite: 30, 31]
+### 👤 About Me
+I am a second-year **Cross-Platform Application Development (DAM)** student at IES Mutxamel. My expertise lies in **Backend development**, where I focus on designing efficient business logic and managing complex data structures.
 
-* [cite_start]🔭 **Currently:** Developing my **Final Degree Project (TFG)**, a fully functional application designed to showcase my technical skills and workflow. [cite: 33]
-* [cite_start]💼 **Work Experience:** Working as an Administrative Assistant at **Dual Link**, applying SQL and Python for process optimization. [cite: 44, 46, 47]
-* [cite_start]🌱 **Learning:** Enhancing my Java expertise and exploring advanced backend architectures. [cite: 30]
-* [cite_start]📫 **Contact:** [nachogamallolafon123@gmail.com](mailto:nachogamallolafon123@gmail.com) [cite: 5]
+* 🔭 **Final Degree Project (TFG):** Currently developing a fully functional application. I have made the repository public to showcase my **coding standards**, project organization, and professional workflow.
+* 💼 **Work Experience:** Currently working as an **Administrative Assistant** at Dual Link, where I perform PostgreSQL queries and automate tasks using Python scripts.
+* 🌱 **Learning:** Deepening my knowledge in Java and exploring advanced software architectures.
+* 💬 **Interests:** Backend Systems, Database Management, and Automation.
+* [cite_start]📫 **Contact:** [nachogamallolafon123@gmail.com](mailto:nachogamallolafon123@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Programming Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Tools & Methodologies**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects
 
-#### 🚀 [Final Degree Project (TFG) - Functional App](TU_ENLACE_AQUÍ)
-*In progress* I am currently building a complete functional application as my Capstone Project. The repository is available for review to demonstrate my coding standards, project organization, and problem-solving approach.
-* **Focus:** Scalability, Clean Code, and efficient Database Management.
-* **Repository:** [View Project](TU_ENLACE_AQUÍ)
+#### 🚀 [Capstone Project (TFG) - Functional App](https://github.com/NachoGamallo/TFGPROYECT_AURA)
+A complete application developed as my final degree project. This repository serves as a portfolio of my technical abilities, demonstrating clean code practices and modular architecture.
+* **Focus:** Scalability, Business Logic, and UI/UX Integration.
 
-#### 📊 [Sistema ERP de Gestión de Fichajes y Tareas](TU_ENLACE_AQUÍ)
-[cite_start]Desarrollo de una aplicación integral para la gestión de empleados y tareas empresariales. [cite: 35, 36]
-* [cite_start]**Stack:** Java, PostgreSQL, POO. [cite: 38]
-* [cite_start]**Key Feature:** Implementación de lógica de negocio modular y gestión de datos persistentes. [cite: 37]
-
----
-
-### [cite_start]🛠️ Tecnologías y Herramientas [cite: 14]
-
-**Lenguajes**
-[cite_start]![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) [cite: 16]
-
-**Bases de Datos**
-[cite_start]![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) [cite: 19, 20]
-
-**Herramientas**
-[cite_start]![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) [cite: 22]
+#### 📊 [ERP Management System](https://github.com/NachoGamallo/fichajes-erp).
+An ERP application designed for employee management, time tracking, and task organization.
+* **Stack:** Java, PostgreSQL, and OOP principles.
+* **Key Achievement:** Implemented complex business logic and a modular data structure.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NachoGamallo&theme=cobalt&show_icons=true&count_private=false" alt="Ignacio's Stats" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NachoGamallo&theme=cobalt&hide_border=true&layout=compact" alt="Top Languages" />
