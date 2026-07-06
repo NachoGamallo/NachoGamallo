@@ -11,7 +11,7 @@ I am a second-year **Cross-Platform Application Development (DAM)** student at I
 * 💼 **Work Experience:** Currently working as an **Administrative Assistant** at Dual Link, where I perform PostgreSQL queries and automate tasks using Python scripts.
 * 🌱 **Learning:** Deepening my knowledge in Java and exploring advanced software architectures.
 * 💬 **Interests:** Backend Systems, Database Management, and Automation.
-* 📫 **Contact:** [nachogamallolafon123@gmail.com](mailto:nachogamallolafon123@gmail.com)
+* 📫 **Contact:** [nachogamallolafon123@gmail.com](mailto:ignacio.lafon.dev@gmail.com)
 
 ---
 
